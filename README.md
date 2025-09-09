@@ -27,11 +27,11 @@
 
 Несколько рекомендаций по формированию DFD-модели [здесь](https://docs.google.com/document/d/1qE-Dbf-1pub9TeAnGHLnhSrpdSB-ZXfH/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true)
 
-Erwin Process Modeler [здесь](https://drive.google.com/file/d/11daH720Q3wD06ger3EDI8kxfUZt7ztm4/view?usp=sharing)
+Erwin Process Modeler [здесь](https://drive.google.com/file/d/11daH720Q3wD06ger3EDI8kxfUZt7ztm4/view?usp=sharing).
 
 RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIVLqNANlkTdCG?usp=drive_link) Сначала нужно установить jre.
 
-Пример и объяснение того, как сделать функциональную модель, можно посмотреть [здесь](https://disk.yandex.ru/d/4hZFLOI2tWhkxg) (консультация от 25.09.2024)
+Видеоурок, как сделать функциональную модель, можно посмотреть [здесь](https://disk.yandex.ru/d/4hZFLOI2tWhkxg) (консультация от 25.09.2024).
 #### Защита лабораторной работы №1
 
 Представление проекта командой в виде доклада с презентацией на занятии или консультации. На доклад - 5 минут. На GIT должен быть загружен pdf-файл с моделью, презентация в pdf, erwin-файл c моделью (или иной). Комментарии должны содержать информацию о варианте.
@@ -42,7 +42,7 @@ RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIV
 
 Для сдачи работы необходимо:
 1. Зарегистрироваться на GIT.
-2. Сделать форк репозитория с заданиями в свой аккаунт (на странице https://github.com/marinagovorova/DATABASES_ICT_09.03.03_2024-2025 кнопка fork справа, сверху).
+2. Сделать форк репозитория с заданиями в свой аккаунт (на странице https://github.com/marinagovorova/DATABASES_PIn_09.03.03_2025-2026 кнопка fork справа, сверху).
 3. Установить GIT на компьютер.
 4. Открыть папку, где хранятся Ваши проекты на Вашем ПК. В контекстом меню нажать "Open Git Bash here". Склонировать форкнутый репозиторий на компьютер (**git clone https://github.com/marinagovorova/DATABASES_ICT_09.03.03_2024-2025**).
 5. В файловой системе Вашего компрьютера, в склонированном репозитории создать в папке **students/группа** Вашу личную папку в формате **Фамилия_Имя латиницей**. Например: **students/K3139/Petrov_Vasya**
