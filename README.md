@@ -27,11 +27,11 @@
 
 Несколько рекомендаций по формированию DFD-модели [здесь](https://docs.google.com/document/d/1qE-Dbf-1pub9TeAnGHLnhSrpdSB-ZXfH/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true)
 
-Erwin Process Modeler [здесь](https://drive.google.com/file/d/11daH720Q3wD06ger3EDI8kxfUZt7ztm4/view?usp=sharing).
+Erwin Process Modeler [здесь](https://drive.google.com/file/d/11daH720Q3wD06ger3EDI8kxfUZt7ztm4/view?usp=sharing). Если не устанавливается, воспользуйтесь RAMUS.
 
 RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIVLqNANlkTdCG?usp=drive_link) Сначала нужно установить jre.
 
-Видеоурок, как сделать функциональную модель, можно посмотреть [здесь](https://disk.yandex.ru/d/4hZFLOI2tWhkxg) (консультация от 25.09.2024).
+Видеоурок, как сделать функциональную модель, можно посмотреть [здесь](https://disk.yandex.ru/d/4hZFLOI2tWhkxg) (Консультация от 25.09.2024).
 #### Защита лабораторной работы №1
 
 Представление проекта командой в виде доклада с презентацией на занятии или консультации. На доклад - 5 минут. На GIT должен быть загружен pdf-файл с моделью, презентация в pdf, erwin-файл c моделью (или иной). Комментарии должны содержать информацию о варианте.
