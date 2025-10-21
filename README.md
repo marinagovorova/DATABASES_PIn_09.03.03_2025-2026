@@ -23,7 +23,7 @@
 
 Моделирование функционального поведения системы выполняется в нотации DFD в CASE-средстве Erwin Process Modeler (или аналоге). 
 
-**Практикум** по работе программой [здесь](https://docs.google.com/document/d/1IY7TRUeoMYD3fC0YgWdSTyHPJSrGO7LM/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true) Интерфейс RAMUS по интсрументарию (элементы нотации DFD) аналогичен Erwin, поэтому просмотрите обучающее видео по моделированию в Erwin на конкртеном примере ниже. 
+**Практикум** по работе программой [здесь](https://docs.google.com/document/d/1IY7TRUeoMYD3fC0YgWdSTyHPJSrGO7LM/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true) Интерфейс RAMUS по интсрументарию (элементы нотации DFD) аналогичен Erwin, поэтому просмотрите обучающее видео по моделированию в Erwin на конкретном примере ниже. 
 
 Несколько рекомендаций по формированию DFD-модели [здесь](https://docs.google.com/document/d/1qE-Dbf-1pub9TeAnGHLnhSrpdSB-ZXfH/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true)
 
