@@ -65,7 +65,7 @@ RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIV
 Работы защищаются на занятиях или консультациях. 
 Все отчеты сохраняются в **pdf** (документы и презентации, если иное не оговорено в задании работы). Отчеты предоставленные в других форматах приниматься не будут.
 Все студенческие работы хранятся в папке **Students**.
-### Лекция 2.3 [Классификация моделей данных. Структурная часть реляционной модели данных](https://drive.google.com/drive/folders/1_Ce0Bq7W3jlki1rzMU2CfiRLPQShWXWZ?usp=sharing) (презентация)
+### Лекция 2.3 [Классификация моделей данных. Структурная часть реляционной модели данных](https://docs.google.com/presentation/d/1vdT2A8K08UVXHE7RLNpjRznPtkjMjbwv/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
 #### [12 правил Кодда](https://docs.google.com/document/d/1lXeQonxzi5XdDTlVSG3KOHBlq5TR3-n7/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
 #### [Преобразование ИЛМ в РМ](https://docs.google.com/presentation/d/1MOxQjwUk3YbQs42iG_W46Z_oPMfb47p8/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
 ## Раздел 3 ВВЕДЕНИЕ В SQL
