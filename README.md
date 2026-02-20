@@ -61,6 +61,22 @@ RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIV
 Отчетные материалы (для пул-реквеста) включают файл отчета по лабораторной работе (PDF) и файлы моделей в обеих нотациях в соотвтествии с заданием (файл модели  + PDF).
 
 **По итогам изучения тем 2.1, 2.2 проводится контрольный тест (ключевая контрольная точка).**
+# 4 семестр 2024-2025
+## Раздел 2 МЕТОДОЛОГИИ ПРОЕКТИРОВАНИЯ БАЗ ДАННЫХ
+### Лекция 2.4 Функциональные зависимости. Метод нормальных форм
+Материалы лекции доступны [здесь](https://drive.google.com/drive/folders/1XvfSatTdZ0BJNJA-Kl1H49HSf_ovfJPD?usp=drive_link)
+
+[Целостность базы данных](https://docs.google.com/presentation/d/1sL6SvB1rmSw6N7QUf_JwleA0rQ58Ne27/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
+
+[Функциональные зависимости. Метод нормальных форм](https://docs.google.com/presentation/d/1kY48Q0CCLPiosmhH1hkthu-jt2rZxLee/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
+
+[Пример нормализации БД](https://drive.google.com/file/d/1eOgEIIz3D1XsVdot1b5e9xZi81tDQjFb/view?usp=drive_link) 
+
+[Программа DBprom](https://drive.google.com/file/d/1kgQVsyXB_knonyjxa9acy-jkuJbcVoT8/view?usp=drive_link) 
+
+[Статья "Программа нормализации реляционных баз данных как основа предметно-ориентированной интеллектуальной обучающей системы"](https://drive.google.com/file/d/10qT5TFJljP-xPx_8cwmL5lXgnGlQjJ22/view?usp=drive_link)
+
+**По итогам изучения темы "Метод нормальных форм" проводится контрольный тест (ключевая контрольная точка).**
 ## Сдача работ
 Работы защищаются на занятиях или консультациях. 
 Все отчеты сохраняются в **pdf** (документы и презентации, если иное не оговорено в задании работы). Отчеты предоставленные в других форматах приниматься не будут.
