@@ -61,6 +61,31 @@ RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIV
 Отчетные материалы (для пул-реквеста) включают файл отчета по лабораторной работе (PDF) и файлы моделей в обеих нотациях в соотвтествии с заданием (файл модели  + PDF).
 
 **По итогам изучения тем 2.1, 2.2 проводится контрольный тест (ключевая контрольная точка).**
+
+### Лекция 2.3 [Классификация моделей данных. Структурная часть реляционной модели данных](https://docs.google.com/presentation/d/1vdT2A8K08UVXHE7RLNpjRznPtkjMjbwv/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+#### [12 правил Кодда](https://docs.google.com/document/d/1lXeQonxzi5XdDTlVSG3KOHBlq5TR3-n7/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
+#### [Преобразование ИЛМ в РМ](https://docs.google.com/presentation/d/1MOxQjwUk3YbQs42iG_W46Z_oPMfb47p8/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+## Раздел 3 ВВЕДЕНИЕ В SQL
+### Лекция 3.1  [Реляционная алгебра](https://docs.google.com/presentation/d/1EH7C_a0Go7IIvaff2PenZXP-NkzZJHCf/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+#### [Дополнительно: Операции РА](https://docs.google.com/presentation/d/1lOWx-DNM2_nf4eW9GSw1hwpvZZDEagvG/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+#### [Дополнительно: Реляционная алгебра](https://docs.google.com/document/d/17iSQEmmFThHUUm06myqVnxpjPIKCwOdg/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
+**По итогам изучения тем 2.3, 3.1 проводится контрольный тест (ключевая контрольная точка).**
+## Лекция 3.2 Состав SQL. Описание данных и манипулирование данными в SQL. DDL, DML
+### 3.2.1 [Введение в SQL](https://docs.google.com/presentation/d/16IJYCr0Bm5aOSnvl12LUWhiPpwker3PD/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.2.2 [Команды DDL и DML SQL](https://docs.google.com/presentation/d/1uFXnd4Sket5-399Df__imnY2d65NfQsE/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+[Практическое задание к Лекции 3.2](https://docs.google.com/document/d/1xDWXO6fg4LdiSCvYWk9hxTNdUDmTfsqj/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
+## Лекция 3.4 Построение запросов к БД. Select SQL. Индексы
+### 3.4.1 [SELECT SQL. Базовая конструкция](https://docs.google.com/presentation/d/1bpqgUhqUtPp8zwaIsCsKCAdA0XpeZkFG/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.2 [SELECT SQL. Переменные таблицы. Множественные операторы](https://docs.google.com/presentation/d/1uuuVunLUoYIQFd7FPcJB522_Lq6oWB_T/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.3 [SELECT SQL. Подзапросы](https://docs.google.com/presentation/d/1GgEkOW6rgCNxQHqNL6HR1Chgnyxs8LPz/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.4 [SELECT SQL. Соединения](https://docs.google.com/presentation/d/1qd1nzSX7QMKYvx65OLuJjz5EtVmtnj-H/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.5 [SELECT SQL. Агрегатные функции. Группирующие запросы](https://docs.google.com/presentation/d/1OXXH1dj4exjoR8nke3sCLGQ_20OuX83s/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.6 [SELECT SQL. NULL-значения](https://docs.google.com/presentation/d/1BSdIlGHb4vbjRFn3GUS2GTqjtSJGiOqh/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.7 [SELECT SQL. Представления. Модификация данных](https://docs.google.com/presentation/d/1SAvJoUQdHdL1quwiywPGAvtPQbX7-gvm/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### 3.4.8 [Индексы в реляционной БД](https://docs.google.com/presentation/d/1QqXtwWN-MB7CK1DMNr4PoMOeNb4gWgsa/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
+### [Операторы языка SQL Select](https://docs.google.com/document/d/15PbK32s7Q5ChKl5yqS1H5aOSr1PFv4J3/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
+#### Тестовая база данных: 
+[Скрипты запросов БД Колледж 3.2.3-3.2.8](https://docs.google.com/document/d/112xANK_D95wKKL_uc8Scc9TDXmQRvL6F/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
 ##  ОНЛАЙН-КУРС "Оператор SELECT (версия 2021)"
 В рамках практического онлайн-курса **[Оператор SELECT (версия 2021)](https://learnsql.ru/)"** предлагается выполнить 60 практических заданий (SQL-запросов) на выборку данных (по нескольким предметным областям).
 
@@ -88,31 +113,6 @@ RAMUS [здесь](https://drive.google.com/drive/folders/1hBK-TaCIPwG-Dmq94XyIV
 Работы защищаются на занятиях или консультациях. 
 Все отчеты сохраняются в **pdf** (документы и презентации, если иное не оговорено в задании работы). Отчеты предоставленные в других форматах приниматься не будут.
 Все студенческие работы хранятся в папке **Students**.
-### Лекция 2.3 [Классификация моделей данных. Структурная часть реляционной модели данных](https://docs.google.com/presentation/d/1vdT2A8K08UVXHE7RLNpjRznPtkjMjbwv/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-#### [12 правил Кодда](https://docs.google.com/document/d/1lXeQonxzi5XdDTlVSG3KOHBlq5TR3-n7/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
-#### [Преобразование ИЛМ в РМ](https://docs.google.com/presentation/d/1MOxQjwUk3YbQs42iG_W46Z_oPMfb47p8/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-## Раздел 3 ВВЕДЕНИЕ В SQL
-### Лекция 3.1  [Реляционная алгебра](https://docs.google.com/presentation/d/1EH7C_a0Go7IIvaff2PenZXP-NkzZJHCf/edit?usp=sharing&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-#### [Дополнительно: Операции РА](https://docs.google.com/presentation/d/1lOWx-DNM2_nf4eW9GSw1hwpvZZDEagvG/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-#### [Дополнительно: Реляционная алгебра](https://docs.google.com/document/d/17iSQEmmFThHUUm06myqVnxpjPIKCwOdg/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
-**По итогам изучения тем 2.3, 3.1 проводится контрольный тест (ключевая контрольная точка).**
-## Лекция 3.2 Состав SQL. Описание данных и манипулирование данными в SQL. DDL, DML
-### 3.2.1 [Введение в SQL](https://docs.google.com/presentation/d/16IJYCr0Bm5aOSnvl12LUWhiPpwker3PD/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.2.2 [Команды DDL и DML SQL](https://docs.google.com/presentation/d/1uFXnd4Sket5-399Df__imnY2d65NfQsE/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-[Практическое задание к Лекции 3.2](https://docs.google.com/document/d/1xDWXO6fg4LdiSCvYWk9hxTNdUDmTfsqj/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
-## Лекция 3.4 Построение запросов к БД. Select SQL. Индексы
-### 3.4.1 [SELECT SQL. Базовая конструкция](https://docs.google.com/presentation/d/1bpqgUhqUtPp8zwaIsCsKCAdA0XpeZkFG/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.2 [SELECT SQL. Переменные таблицы. Множественные операторы](https://docs.google.com/presentation/d/1uuuVunLUoYIQFd7FPcJB522_Lq6oWB_T/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.3 [SELECT SQL. Подзапросы](https://docs.google.com/presentation/d/1GgEkOW6rgCNxQHqNL6HR1Chgnyxs8LPz/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.4 [SELECT SQL. Соединения](https://docs.google.com/presentation/d/1qd1nzSX7QMKYvx65OLuJjz5EtVmtnj-H/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.5 [SELECT SQL. Агрегатные функции. Группирующие запросы](https://docs.google.com/presentation/d/1OXXH1dj4exjoR8nke3sCLGQ_20OuX83s/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.6 [SELECT SQL. NULL-значения](https://docs.google.com/presentation/d/1BSdIlGHb4vbjRFn3GUS2GTqjtSJGiOqh/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.7 [SELECT SQL. Представления. Модификация данных](https://docs.google.com/presentation/d/1SAvJoUQdHdL1quwiywPGAvtPQbX7-gvm/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### 3.4.8 [Индексы в реляционной БД](https://docs.google.com/presentation/d/1QqXtwWN-MB7CK1DMNr4PoMOeNb4gWgsa/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (презентация)
-### [Операторы языка SQL Select](https://docs.google.com/document/d/15PbK32s7Q5ChKl5yqS1H5aOSr1PFv4J3/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true) (текстовые материалы)
-#### Тестовая база данных: 
-[Скрипты запросов БД Колледж 3.2.3-3.2.8](https://docs.google.com/document/d/112xANK_D95wKKL_uc8Scc9TDXmQRvL6F/edit?usp=drive_link&ouid=112553411084970929730&rtpof=true&sd=true)
-
 Для сдачи работы необходимо:
 1. Зарегистрироваться на GIT.
 2. Сделать форк репозитория с заданиями в свой аккаунт (на странице https://github.com/marinagovorova/DATABASES_PIn_09.03.03_2025-2026 кнопка fork справа, сверху).
